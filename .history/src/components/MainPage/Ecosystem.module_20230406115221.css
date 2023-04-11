@@ -1,0 +1,51 @@
+.container {
+	width: 1440px;
+	height: 1043px;
+	background-image: url(../aseets/img/backroundImgSecond.png);
+	background-position: center;
+	display: flex;
+	align-items: flex-start;
+	padding-top: 200px;
+    justify-content: flex-start;
+}
+
+.lioneBlock {
+	width: 711px;
+	height: 711px;
+	background-image: url(../aseets/img/SecondLione.png);
+	background-position: center;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+.ecosystemTitle {
+	width: 580px;
+	height: 420px;
+}
+
+.title {
+	color: #ffffff;
+	font-family: 'JasmineUPC';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 43px;
+	line-height: 110.28%;
+    margin: 0;
+}
+
+.ecosystemTitle > p {
+    color: #ffffff;
+    font-family: 'JasmineUPC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    margin: 5px 0;
+}
+
+.blockShell {
+	background-image: url(../aseets/img/blockShellSecond.png);
+	width: 504px;
+	height: 132px;
+	margin-bottom: 80px;
+}

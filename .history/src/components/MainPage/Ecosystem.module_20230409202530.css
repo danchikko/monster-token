@@ -1,0 +1,96 @@
+.container {
+	width: 1340px;
+	height: 1043px;
+	background-image: url(../aseets/img/backroundImgSecond.png);
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	background-color: red;
+	/* margin-top: 14px; */
+}
+
+.containerInfo {
+	display: flex;
+	align-items: flex-start;
+	padding-top: 200px;
+	justify-content: flex-start;
+	gap: 10px;
+}
+
+.lioneBlock {
+	width: 711px;
+	height: 711px;
+	background-image: url(../aseets/img/SecondLione.png);
+	background-position: center;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+.ecosystemTitle {
+	width: 580px;
+	height: 420px;
+}
+
+.title {
+	color: #ffffff;
+	font-family: 'JasmineUPC';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 43px;
+	line-height: 110.28%;
+	margin: 0;
+}
+
+.ecosystemTitle > p {
+	color: #ffffff;
+	font-family: 'JasmineUPC';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	margin: 5px 0;
+}
+
+.blockShell {
+	background-image: url(../aseets/img/contract2.png);
+	width: 504px;
+	height: 132px;
+	margin: 0 20px 82px 0;
+	padding: 30px 64px 36px 64px;
+}
+
+.blockShell > h4 {
+	font-family: 'JasmineUPC';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 33px;
+	line-height: 110%;
+	color: #ffffff;
+	margin: 0;
+}
+
+.blockShell > h5 {
+	font-family: 'JasmineUPC';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 110%;
+	margin: 0;
+	color: #ffffff;
+}
+
+.shellInfo {
+	background-image: url(../aseets/img/blockShell2.png);
+	width: 1325px;
+	height: 54px;
+	margin: 0 0 -13px 15px;
+	background-size: cover;
+	background-position: center;
+}
+
+//=====================
+
+
+
+

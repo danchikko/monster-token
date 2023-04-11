@@ -1,0 +1,32 @@
+.homeContainer {
+	background-image: url(../aseets/img/backroundImageOne.png);
+	width: 1440px;
+	height: 1002px;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+    height: 90px;
+    width: 100%;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.ulList {
+	display: flex;
+	justify-content: space-evenly;
+	width: 650px;
+    list-style: none;
+    gap: 22px;
+    padding-left: ;
+}
+
+.ulList > li {
+	font-family: 'JasmineUPC';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 16px;
+    color: #ffff;
+}

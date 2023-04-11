@@ -1,0 +1,21 @@
+.container {
+    width: 1440px;
+    height: 1043px;
+    background-image: url(../aseets/img/backroundImgSecond.png);
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding-top: 90px;
+}
+
+.lioneBlock {
+    width: 711px;
+    height: 711px;
+    background-image: url(../aseets/img/SecondLione.png);
+    background-position: center;
+}
+
+
+
+
+.

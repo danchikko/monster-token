@@ -1,0 +1,27 @@
+.container {
+    background-image: url(../aseets/img/backround3.png);
+    height: 1440px;
+    object-fit: cover;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.blockToken {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.shell {
+    background-image: url(../aseets/img/contract3.png);
+    width: 504px;
+    height: 132px;
+    margin: -86px -35px 0 0;
+}
+
+.shell > h3 {
+    
+}

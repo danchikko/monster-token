@@ -1,0 +1,85 @@
+.homeContainer {
+	background-image: url(../aseets/img/backroundImageOne.png);
+	width: 1440px;
+	height: 1002px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+    height: 90px;
+    width: 100%;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.logo {
+   padding: 18px 0 0 0; 
+}
+
+.ulList {
+	display: flex;
+	justify-content: space-between;
+	width: 630px;
+    list-style: none;
+    padding-right: 60px;
+    align-items: flex-start;
+}
+
+.ulList > li {
+	font-family: 'JasmineUPC';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 16px;
+    color: #ffff;
+}
+
+.explain {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.imgWelcomeLogo {
+    width: 470px;
+    height: 235px;
+}
+
+.TitleWelcom {
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.shell {
+    background-image: url('../aseets/img/contract.png');
+    width: 520px;
+    height: 150px;
+}
+
+.shell > h3 {
+    color: #ffffff;
+    padding: 15px 0 0 80px;
+}
+
+.shell > p {
+    color: #ffffff;
+    padding: 0 0 0 40px;
+}
+
+.neon {
+    position: absolute;
+    /* z-index: auto; */
+    left: 70px;
+    /* bottom: -140px; */
+}
+
+.theBgr {
+    display: flex;
+    align-items: flex-start;
+}
